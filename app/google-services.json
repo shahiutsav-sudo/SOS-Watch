@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713334299220",
+    "project_id": "sos-watch-16317",
+    "storage_bucket": "sos-watch-16317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713334299220:android:22f9e078668710be836bc1",
+        "android_client_info": {
+          "package_name": "com.example.soswatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713334299220-hkt1npekfpuo7hsm35s09vs8frsto1mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoadMUJ3tuI2RxXlYohVX1Pii_cwj3B9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713334299220-hkt1npekfpuo7hsm35s09vs8frsto1mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
